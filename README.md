@@ -4,13 +4,18 @@ No #1 hackathon project at Voxel51 hackathon at Northeastern University 21st Mar
 ## Project Demo Videos
 
 ### Fall Detection with Call Gesture
-![Fall Detection with Call Gesture](https://github.com/user-attachments/assets/049b7f9d-1468-44e2-bfbf-a91807d9bd96)
+
+[Fall Detection with Call Gesture](https://github.com/user-attachments/assets/98016579-aa72-4412-9836-8e50ef142227)
+
+
 
 ### Fall Detection with Lying Down
-![Fall with Lying Down](https://github.com/user-attachments/assets/e653de5a-3b4f-460e-8808-4ce784ce46a4)
+
+[Fall Detection with Lying Down](https://github.com/user-attachments/assets/944840f3-d64b-4ce8-8926-5be48ab1802f)
 
 ### Regular Fall Detection
-![Regular Fall Detection](https://github.com/user-attachments/assets/954a9c3e-44b8-4fa7-9dde-107a11e01adc)
+
+[Regular Fall Detection](https://github.com/user-attachments/assets/f1f048ff-c4b3-43b3-adc2-acfb43e72efd)
 
 ## Presentation
 

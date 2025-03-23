@@ -4,13 +4,13 @@ No #1 hackathon project at Voxel51 hackathon at Northeastern University 21st Mar
 ## Project Demo Videos
 
 ### Fall Detection with Call Gesture
-![Fall Detection with Call Gesture](https://github.com/KeenBean024/ElderWatch/assets/YOUR_ASSET_ID/output_fall_call.mp4)
+![Fall Detection with Call Gesture](https://github.com/KeenBean024/ElderWatch/output_fall_call.mp4)
 
 ### Fall Detection with Lying Down
-![Fall with Lying Down](https://github.com/KeenBean024/ElderWatch/assets/YOUR_ASSET_ID/output_fall_lie_down.mp4)
+![Fall with Lying Down](https://github.com/KeenBean024/ElderWatch/output_fall_lie_down.mp4)
 
 ### Regular Fall Detection
-![Regular Fall Detection](https://github.com/KeenBean024/ElderWatch/assets/YOUR_ASSET_ID/output_fall_okay.mp4)
+![Regular Fall Detection](https://github.com/KeenBean024/ElderWatch/output_fall_okay.mp4)
 
 ## Presentation
 
